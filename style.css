@@ -1,0 +1,156 @@
+.logo{
+    height: 60px;
+    width: 160px;
+}
+.signUP{
+    margin: 0px;
+    padding: 8px 20px;
+    border: none;
+    background-color: #21b573;
+    border-radius: 30px;
+    color: white;
+}
+.nav-item{
+    margin-left: 30px;
+}
+
+.banner{
+    width: 100%;
+    margin-left: 95px;
+}
+
+.part{
+    margin-top: 70px;
+    margin-right: ;
+}
+
+.banner-para{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.caption{
+    color: red;
+}
+span{
+    color: #21b573;
+}
+.para{
+    color: gray;
+}
+
+.first-part{
+    background-color: #f0fff0;
+    padding-bottom: 70px;
+}
+.heading{
+    color: black;
+}
+
+.img{
+    padding-left: 60px;
+    width: 190px;
+    height: 190px;
+    padding-right: 60px;
+    padding-top: 40px;
+}
+img{
+    width: 100%;
+}
+.caard{
+    background-color: #f0fff0;
+    margin-right: 60px;
+    width: 201px;
+}
+
+.caard-caption{
+    text-align: center;
+    font-size: 22px;
+}
+
+.caard-info{
+    font-size: 12px;
+    text-align: center;
+    color: grey;
+}
+
+.info{
+    margin-top: -45px;
+}
+.caard-pic{
+    margin-left: 65px;
+    margin-top: 60px;
+}
+
+.caard:hover{
+    background-color: white;
+    box-shadow: 1px 1px 40px rgb(202, 199, 199);
+    border-radius: 20px;
+}
+
+.online{
+    padding: 50px;
+}
+
+.courses{
+    text-align: center;
+}
+
+
+.footerr{
+    margin-top: 25px;
+    color: gray;
+    margin-bottom: -17px;
+    font-size: 15px;
+}
+.icon{
+    width: 22px;
+    float: left;
+}
+
+.right{
+}
+
+.card{
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 40px rgb(243, 231, 231);
+    border: none;
+}
+.online-course{
+    margin-bottom: 55px;
+    margin-top: -40px;
+}
+.card-body{
+    margin-left: -10px;
+}
+
+.photo{
+    width: 140px;
+    margin-left: 175px;
+    margin-top: 12px;
+}
+.comment{
+    padding: 40px;
+    margin-top: -10px;
+    margin-left: 45px;
+}
+.footer{
+    background-color: #282531;
+    color: white;
+    padding-top: 1px;
+}
+footer{
+    text-align: center;
+    padding-bottom: 1px;
+    padding-top: 10px;
+    font-size: 10px;
+    color: gray;
+}
+
+.last-row{
+    margin-left: 140px;
+}
+
+.testimonial{
+    margin-bottom: 40px;
+}
